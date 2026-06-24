@@ -1,0 +1,8 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      182     181     182       7540  pty0      197609 15:37:51 /usr/bin/bash
+      432       1     432       6880  ?         197609 16:53:32 /usr/bin/mintty
+      433     432     433      26352  pty1      197609 16:53:32 /usr/bin/bash
+      431     428     428      15996  pty0      197609 16:40:28 /c/Program Files/Docker/Docker/resources/bin/docker
+      428     182     428      22896  pty0      197609 16:40:28 /usr/bin/sh
+      467     433     467       9116  pty1      197609 16:56:15 /usr/bin/PS
+      181       1     181      13988  ?         197609 15:37:51 /usr/bin/mintty
